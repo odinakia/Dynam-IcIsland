@@ -3,8 +3,8 @@
 ## Как запустить
 
 - **Ярлык на рабочем столе:** `Dynamic Island` →
-  `C:\Users\odifr\DynamicIsland\dist\DynamicIsland.exe`
-- Или напрямую: `C:\Users\odifr\DynamicIsland\dist\DynamicIsland.exe`
+  `C:\Users\user\DynamicIsland\user\DynamicIsland.exe`
+- Или напрямую: `C:\Users\user\DynamicIsland\dist\DynamicIsland.exe`
 
 Приложение одноэкземплярное: повторный запуск просто ничего не делает.
 Свернуть в трей / показать обратно — через иконку в системном трее.
