@@ -1,0 +1,12 @@
+# сборка
+bin/
+obj/
+dist/
+.vs/
+*.user
+*.suo
+*.pdb
+
+# локальные настройки и логи (лежат в %APPDATA%, но на всякий случай)
+settings.json
+log.txt
